@@ -60,8 +60,8 @@ console.log(RenderToDosListTemplate());
  1- Shopping 
  2- Meet with PR department 
  3- Pay bills 
- 4- By milk 
- 5- Visiting Tommy 
+ 4- Buy milk 
+ 5- Visit Tommy 
  6- Check the internet connection 
  7- Go to supermarket 
  8- Meet with Ghassan 
